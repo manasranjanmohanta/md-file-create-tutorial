@@ -1,4 +1,5 @@
-# md-file-create-tutorial
+# md-file-create-tutorial (Basic syntax)
+---
 ## 1. Headings :
 # H1 (Heading 1)
 ## H2(Heading 2)
