@@ -21,15 +21,18 @@
 
 
 ## 4. Links:
-[text you want to show](actual link)
-e.g - [Visit Website](www.google.com)
-or
-(hover effect)
-[text you want to show](link "go to google")
+[text you want to show](actual link) <br>
+e.g - [text you want to show](link) <br>
+or <br>
+(hover effect)- <br>
+[Visit Website](https://www.google.com "go to google")
+
+#### Links on the same page-
+[My footer](#my-footer)
 
 
 ## 5. Images:
-![alternate text](image link) </br>
+![alternate text](image link) <br>
 or
 #### (hover effect): <br>
 ![alternate text](image link "title")
@@ -40,7 +43,7 @@ or
 Use `for` loop
 
 #### Fenced Code block (or Multi code block) - 
-you can specify language name also(It will high-light the code in that specific language) 
+you can specify language name also(It will highlight the code in that specific language) 
 ```java
 public class Main{
   public static void main(String[] args){
@@ -68,12 +71,12 @@ Center-Alignment-  :---: <br>
 
 ## 8. Block Quote:
 #### One block quote-
-> Keep smiling and work Harder
+> Keep smiling and Work Harder
 
 #### Multiple block quote-
 > Hello
 > 
-> Good morining
+> Good morning
 >
 > How are you?
 
@@ -85,5 +88,42 @@ Center-Alignment-  :---: <br>
 > > > > Express
 
 
+## 9. Lists:
+#### Ordered List-
+(Just enter the number and dot then space)
+1. Ordered List one
+2. Ordered List two
+3. Ordered List three
+
+#### Unordered List-
+(just enter hyphen and space)
+- Unordered List one
+- Unordered List two
+- Unordered List three
+
+## 10. Horizontal Line-
+(either three dashes or asterisks)
+
+---
+***
+
+## 11. Check boxes:
+- [X] Task#1
+- [ ] Task#2
+- [x] Task#3
 
 
+## 12. Collapse & hide text:
+<details>
+  <summary>Heading</summary>
+  content
+</details> <br>
+<details>
+  <summary>Click Me!</summary>
+  Hola, Good Morning
+</details>
+
+
+## 13. Reference Links:
+[my-github][manas] <br>
+[manas]: https://github.com/manasranjanmohanta
